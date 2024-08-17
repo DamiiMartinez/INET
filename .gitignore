@@ -1,0 +1,9 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar directorios de build
+build/
+dist/
+
+# Ignorar archivos de configuración local
+.env
