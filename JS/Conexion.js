@@ -1,3 +1,5 @@
+//Para inicializar el proyecto ingresa en la terminal: npm install
+
 import mysql from 'mysql2';
 
 // Crear la conexión a la base de datos
